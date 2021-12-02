@@ -1,5 +1,5 @@
 # CP-almanac
-## About
+## About:
 CP - almanac aims to compile some ready to use algorithms/learnings and will have chapters uncovering some beginners to advanced problems along with a puzzle/riddle for everyone to solve daily. It would get evolved as a single point access to many of the solutions of an everyday programmer’s perplexities!
 
 ## Guidelines
